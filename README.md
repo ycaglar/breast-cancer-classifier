@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## Overview
-A K-Nearest Neighbor classifier that is trained to predict whether a patient has breast cancer. Built using libraries such as Sckitlearn and Matplotlib
+A K-Nearest Neighbor classifier that is trained to predict whether a patient has breast cancer. Built using libraries like Sckitlearn and Matplotlib
 
 ![Tux](/screenshots/screenshot.png)
 
